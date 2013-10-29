@@ -6,6 +6,9 @@
 //  Copyright (c) 2012 NextBusinessSystem Co., Ltd. All rights reserved.
 //
 
+@import Foundation;
+@import CoreGraphics;
+
 typedef enum {
     GPXFixNone = 0,
     GPXFix2D,
